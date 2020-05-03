@@ -20,8 +20,9 @@ Open your terminal;
 
 [Theory]
 
-[InlineData("item1", "{\"name\":\"banu\",\"email\":\"banu.hutomo@gmail.com\",\"contents\":\"test formulatrix\"}", 1)]
-[InlineData("item2", "<name>banu</name><email>banu.hutomo@gmail.com</email><contents>test formulatrix</contents>", 2)]
+> [InlineData("item1", "{\"name\":\"banu\",\"email\":\"banu.hutomo@gmail.com\",\"contents\":\"test formulatrix\"}", 1)]
+
+> [InlineData("item2", "<name>banu</name><email>banu.hutomo@gmail.com</email><contents>test formulatrix</contents>", 2)]
 
 ReturnTrue_GivenParameters_RegisteringJSONXML
 
