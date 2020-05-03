@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rv6b5HwZ04XzQjsHwh6hklaPFUknOqm1Zuw05Mt0rvW64oblaFl926DdIl16B9aP1jc1DSREINZenQCnK7uMHw==",
+  "success": true,
+  "projectFilePath": "/Users/Banu/Desktop/Lamar/formulatrix/Formulatrix/Services/Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/Banu/.nuget/packages/microsoft.netcore.app/2.0.0/microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "/Users/Banu/.nuget/packages/microsoft.netcore.dotnetapphost/2.0.0/microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "/Users/Banu/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.0.0/microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "/Users/Banu/.nuget/packages/microsoft.netcore.dotnethostresolver/2.0.0/microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "/Users/Banu/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/Users/Banu/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

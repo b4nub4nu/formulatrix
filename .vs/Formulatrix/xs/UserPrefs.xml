@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1A93399E-4ADF-43D4-B6D8-BB445BDAD543}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/IFormulatrix.cs">
+    <Files>
+      <File FileName="Repository/FormulatrixJson.cs" Line="29" Column="2" />
+      <File FileName="Repository/FormulatrixXml.cs" Line="34" Column="2" />
+      <File FileName="xUnitTest/UnitTest1.cs" Line="20" Column="49" />
+      <File FileName="Services/IFormulatrix.cs" Line="13" Column="2" />
+      <File FileName="Repository/FormulatrixRepository.cs" Line="8" Column="1" />
+      <File FileName="Repository/TypeNames.cs" Line="9" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Formulatrix" expanded="True">
+            <Node name="Repository" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Services" expanded="True">
+              <Node name="IFormulatrix.cs" selected="True" />
+            </Node>
+            <Node name="xUnitTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Formulatrix" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.xUnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
